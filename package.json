@@ -1,6 +1,6 @@
 {
   "name": "flow-static-land",
-  "version": "0.2.8",
+  "version": "0.2.10",
   "description": "Implementation of common algebraic types in JavaScript + Flow",
   "files": [
     "lib",
@@ -37,7 +37,7 @@
     "mocha": "^7.0.0"
   },
   "resolutions": {
-    "**/core-js":  "^3.6.3"
+    "**/core-js": "^3.6.3"
   },
   "tags": [
     "flow",
